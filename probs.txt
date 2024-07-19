@@ -1,0 +1,7 @@
+11 jul
+    check if student is pass or fail 
+        input -> student marks -> if marks > 40 -> print "pass "
+                                  if marks <= 40 -> print "fail "
+    
+    input -> height and width and check shape { square, rectangle }
+        height = 100, width = 50 -> rectangle 
