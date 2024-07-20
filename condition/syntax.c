@@ -28,3 +28,13 @@ if (num == 10) {
 } else {
     print "Invalid input "
 }
+
+
+// ternary 
+
+// condition ? true : false;
+// if (condition) {
+//     true code 
+// } else {
+//     false;
+// }
