@@ -3,6 +3,7 @@
         "*.ejs": "html",
         "stdio.h": "c",
         "graphics.h": "c",
-        "time.h": "c"
+        "time.h": "c",
+        "stdbool.h": "c"
     }
 }
