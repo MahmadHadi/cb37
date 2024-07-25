@@ -5,3 +5,13 @@
     
     input -> height and width and check shape { square, rectangle }
         height = 100, width = 50 -> rectangle 
+
+25 jul 
+    touppercase 
+        i / p - 'a' => 'A'
+                'n' => 'N'
+                'N' => 'N'
+    check if given char is number {0 - 9} or not without || and else if condition 
+        ch = '0' -> print "Yes"
+        ch = 'a' -> print "No"
+        
