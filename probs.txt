@@ -15,3 +15,7 @@
         ch = '0' -> print "Yes"
         ch = 'a' -> print "No"
         
+
+29 jul 
+    {even }
+    print 2 4 6 8 ... n ( n = input ) 
