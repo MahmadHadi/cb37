@@ -1,28 +1,56 @@
-loop
+loop 
 ---------------------------------------
 what is loop 
-    repetition of some tasks many times as long as some condition is true is called loop.
+    repetition of some tasks as many times as long as some condition is true is called loop.
     in loop we always do 3 things 
         1) check some condition whether it is true or not 
-        2) perform some task if condition is true
-        3) count of task if conditin is true
+        2) perform some task if condition is true 
+        3) count of task if conditin is true 
     in programming we also require to perform some task repetatively until some condition becomes false, we can do such task (code) using concept of loop 
 
 what is looping statement in c language?
-    in c language, we can use looping statement to execute some block of code many times based upon some condition. 
+    in c language, we can use looping statement to execute some BLOCK OF CODE many times based upon some condition. 
+Why :
+	1) DRY - do not repeat yourself
+	2) Make code more readable 
 
 there are two types of loop 
 
-    1) entry control loop
-        in entry control loop, first conditions is checked, if it is true then only code withing loop execute, then condition is checked and so on 
-        if is possible that entry control loop may not execute even single time.
-            while loop 
-            for loop   
+    1) entry control loop 
+        in entry control loop, first conditions is checked, if it is true then only code withing loop execute, then condition is agian checked and so on 
+        it is possible that entry control loop may not execute even single time. 
+	eg: 
+        while loop 
+        for loop   
             
     2) exit control loop 
         in exit control loop, first code block within loop execute, then condition is checked, if condition is false then code block will not execute next time.
         exit control loop at least execute once. 
-            do while loop 
+	eg: 
+        do while loop
+
+-------------------------------------------
+increment
+count = count + 1; 
+count += 3;
+count++;
+
+decrement
+count = count - 1; 
+count -= 3;
+count--;
+
+
+multiply
+count = count * 3;
+count *= 3;
+
+divide 
+count = count / 3;
+count /= 3;
+
+
+
 
 -------------------------------------------------------
 while loop 
@@ -42,7 +70,7 @@ in remaining execution first increment/decrement is done and then condition is c
 in any execution if condition is false, then loop will not run 
 syntax 
         a               b           c 
-    for(initialization ; condition ; increment/decrement)
+    for(initialization;condition;increment/decrement)
     {
         line 1  
         line 2

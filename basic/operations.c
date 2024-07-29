@@ -14,4 +14,25 @@ void main() {
 
     num = num * -1; // 700 * -1 => -700
     printf("num = %d \n", num); // 700
+
+    int temp = 1;
+    printf("temp = %d \n", temp);
+    
+    temp++; // * temp = temp + 1 
+    printf("temp = %d \n", temp);
+    
+    temp++; // * temp = temp + 1 
+    printf("temp = %d \n", temp);
+
+    temp--; // * temp -= 1 // temp = temp - 1
+    printf("temp = %d \n", temp);
+
+    temp++; // * temp += 1 // temp = temp + 1 
+    printf("temp = %d \n", temp);
+
+    temp--; // * temp -= 1 // temp = temp - 1
+    printf("temp = %d \n", temp);
+        
 }   
+// temp ** 2; // * temp = temp * temp;
+// temp ** 4; // * temp = temp * temp * temp * temp
