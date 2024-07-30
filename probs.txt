@@ -19,3 +19,6 @@
 29 jul 
     {even }
     print 2 4 6 8 ... n ( n = input ) 
+
+30 jul  
+    print 3 5 7 9 ... 
