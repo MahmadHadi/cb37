@@ -5,6 +5,7 @@
         "graphics.h": "c",
         "time.h": "c",
         "stdbool.h": "c",
-        "random": "c"
+        "random": "c",
+        "algorithm": "c"
     }
 }

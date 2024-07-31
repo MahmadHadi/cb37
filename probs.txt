@@ -22,3 +22,7 @@
 
 30 jul  
     print 3 5 7 9 ... 
+31 jul  
+    print 100 to 1 odd number 
+        100To1Even.c -> 100To1Odd.c
+    4 7 10 13 16 ...
