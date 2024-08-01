@@ -26,3 +26,12 @@
     print 100 to 1 odd number 
         100To1Even.c -> 100To1Odd.c
     4 7 10 13 16 ...
+
+1 aug 
+    print fact from 1 to n {input }
+        n = 5 
+            print 1!
+            print 2!
+            print 3! 
+            print 4! 
+            print 5! 

@@ -21,3 +21,8 @@ while (i <= count) {
 for (int i = 1; i <= count; i++) {
     code 
 }
+
+do {
+   printf("HEllo ");
+   
+} while (num >= 10);
