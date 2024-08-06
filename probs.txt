@@ -35,3 +35,6 @@
             print 3! 
             print 4! 
             print 5! 
+6 aug 
+    crete a flowchart to check if a number is +ve or -ve 
+    crete a flowchart to print 1 to 10 -> using loop 
