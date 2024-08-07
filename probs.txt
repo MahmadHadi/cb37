@@ -38,3 +38,9 @@
 6 aug 
     crete a flowchart to check if a number is +ve or -ve 
     crete a flowchart to print 1 to 10 -> using loop 
+
+7 aug 
+    check if a int number is polindrome or not 
+        101 -> 101 -> t 
+        123 -> 321 -> f 
+        -1001001 -> -1001001 -> t 
