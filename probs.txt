@@ -44,3 +44,7 @@
         101 -> 101 -> t 
         123 -> 321 -> f 
         -1001001 -> -1001001 -> t 
+
+8 aug 
+    tableOfn.c
+    dry run -> primeNum.c 
