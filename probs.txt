@@ -48,3 +48,6 @@
 8 aug 
     tableOfn.c
     dry run -> primeNum.c 
+
+9 aug 
+    dry run -> printPrime.c 
