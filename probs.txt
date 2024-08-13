@@ -56,3 +56,15 @@
     1 2 3 
     4 5 6 
     7 8 9 
+
+13 aug 
+    001 008 027 
+    064 125 216
+    ...
+
+    eg 1        eg 2 
+    a B c D  |  a B c 
+    e F g H  |  D e F 
+    i J k L  |  g H i 
+    m N o P  |
+    

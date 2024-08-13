@@ -1,25 +1,18 @@
 #include <stdio.h>
-void main() {
-    int num;
-    printf("Enter a number : ");
-    scanf("%d", &num);
-    int ld, rnum = 0;
-    int temp = num;
-
-    while (num != 0) {
-        // num = 123
-        ld = num % 10; // get last digit 
-        rnum = rnum * 10 + ld; // 0 + 3 = 3 
-        num = num / 10; // 12
-    }  
-    // printf("%d \n", num);
-    printf("%d == %d \n", temp, rnum);
-    if (temp == rnum) {
-        printf("%d is a palindrome.\n", rnum);
-    } else {
-        printf("%d is not a palindrome.\n",rnum );
+void main()
+{
+    int num = 1;
+    for (int i = 1; i <= 4; i++)
+    {
+        for (int j = 1; j <= 4; j++)
+        {
+            printf("%.3d ", num);
+            num++;
+        }
+        printf("\n");
     }
 }
-
-// num == rnum 
-// print num // 0 
+// 01 02 03 04 
+// 05 06 07 08 
+// 09 10 11 12
+// 13 14 15 16
