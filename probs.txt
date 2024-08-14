@@ -67,4 +67,8 @@
     e F g H  |  D e F 
     i J k L  |  g H i 
     m N o P  |
-    
+
+14 aug  
+    a b a 
+    b a b 
+    a b a 
