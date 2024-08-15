@@ -72,3 +72,12 @@
     a b a 
     b a b 
     a b a 
+
+15 aug 
+    hollowSq.c -> tri   
+        * 
+        * * 
+        * # *
+        * # # *
+        * * * * *
+    all square patterns in triangle 
