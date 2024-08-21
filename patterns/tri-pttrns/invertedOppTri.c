@@ -6,14 +6,17 @@
 #include <stdio.h>
 void main() {
     int height = 4;
+    int count = 2;
 
     for (int i = 1; i <= height; i++) { // "\n"
         // for (int j = height - 1; j <= i + 1; j++) {
         for (int j = 1; j <= i - 1; j++) { // # 
-            printf("# ");
+            printf("   ");
         }
         for (int k = height; k >= i; k--) { // * 
-            printf("* ");
+            // printf("* ");
+            printf("%.2d ", count);
+            count += 2;
         }
         printf("\n");
     }
