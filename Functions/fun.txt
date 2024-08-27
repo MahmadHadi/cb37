@@ -14,7 +14,7 @@ What is function ?
 	-> function can also have inputs known as parameters or arguments it is optional, function process input and may optionally return at most one output. 
 
 Why we need function ? 
-    -> To avoid repeated code { DRY - do not repeat yourself } and make code more readable, we need to use function
+    -> To avoid repeated code { DRY - do not repeat yourself } and make code more readable, we need to use function 
     -> Like when we use variables to use a values as many time as we need, we use functions to use some code as many times as we need
 
 type of function 
@@ -38,7 +38,7 @@ how to create function { syntax }
 	function_name(parameters); 
 
 	example 
-	void printstar(int height) {
+	void printstar(int height = 20) {
         printf("\n****************************************************\n");
 	}
 	

@@ -81,3 +81,6 @@
         * # # *
         * * * * *
     all square patterns in triangle 
+
+27 aug 
+    write function for getDiv (/), getProd (*), getSub (-)
