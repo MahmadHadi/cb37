@@ -84,3 +84,11 @@
 
 27 aug 
     write function for getDiv (/), getProd (*), getSub (-)
+
+28 aug  
+    create a function which returns factorial of a given number 
+        number = 4 -> return 24
+        num = 1 -> return 1 
+        num = -12 -> return -1
+        num = 0 -> return 1 
+    create a function which returns true if num is prime otherwise returns false 
