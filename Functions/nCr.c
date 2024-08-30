@@ -27,9 +27,13 @@ int getNCR(int n, int r) {
 }
 
 int main() {
+    int n = 2, r = 1;
 
-    int n = 30, r = 3;
-    printf("ncr = %d ", getNCR(n, r));
+    if (n > 0 && r > 0 && n > r) {
+        printf("%dC%d = %d ", n, r, getNCR(n, r));
+    } else {
+        printf("Invalid input ");
+    }
     return 0;
 }
     // int nFact = 1;
