@@ -1,0 +1,6 @@
+java -> be -> dart flutter 
+js -> be { nodejs } + fe { reactjs }
+mern stack -> mongodb Express.js react.js node.js 
+
+php python - html, css, bootstrap, js {frontend}
+mern stack -> html, css, bootstrap, js {full - frontend {reactjs, animation} + be {node, express, mongodb}} 
