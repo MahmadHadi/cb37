@@ -106,3 +106,5 @@
         num = 15 
             1 -> 15 
             print 7 // 1 2 3 5 7 11 13 
+5 sep 
+    product { * } of all elem in an array 

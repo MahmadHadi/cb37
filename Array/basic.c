@@ -22,7 +22,7 @@ int main() {
     // printf("arr[0] = %d \n", arr[3]);
     // printf("arr[0] = %d \n", arr[4]);
 
-    for (int i = 0; i < size; i++) {
+    for (int i = 0; i < size; i++) { // * size = 5 -> i = 4 -> i = 5 -> 5 < 5 -> f -> loop break;
         printf("arr[%d] = %d \n", i, arr[i]);
     }
     return 0;

@@ -14,6 +14,7 @@ int main() {
 
     int arr[100];
     int size = sizeof(arr) / sizeof(arr[0]);
+    // int size = 20 / 4 -> 5 -> 5 elems inside array ;
     printf("sizeof(arr) = %d \n", sizeof(arr));
     printf("total num of elem in arr = %d \n", size);
     return 0;
