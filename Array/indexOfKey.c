@@ -11,11 +11,15 @@ int indexOf(int arr[], int size, int key) {
     return -1;
 }
 int main() {
-    int arr[] = {1, 3, 2, 2, 4, 3, 5, 6, 1};
+    int arr[] = {1, 3, 2, 2, 4, 2, 5, 6, 1};
     int size = sizeof(arr) / sizeof(arr[0]);
     int key = 3;
 
     int ans = indexOf(arr, size, key);
-    printf("ans = %d ", ans);
+    if (ans == -1) {
+        printf("Key not found ");
+    } else {
+        printf("Key founded at index = %d ", ans);
+    }
     return 0;
 }
