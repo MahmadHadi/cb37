@@ -116,3 +116,6 @@
 
 12 sep 
     prod of all elems in a 2D array 
+
+13 sep 
+    prod of all elems of a row in a 2D array 
